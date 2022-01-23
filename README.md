@@ -7,8 +7,8 @@
 ### Web Development is a passion of mine as a Software Engineering. </br> Fulfilling this passion, I took several great courses and became a trainee at the Coding Academy by Orange </br> in Full Stack Web Development for 7 months, I am Motivated by the curiosity about the way life is being transformed by technology </br></br>
 
 
-<a href="https://app.daily.dev/AzmiTammam"><img src="https://api.daily.dev/devcards/020e83d75b414a48a73292a20f5487f6.png?r=05f" width="350px" align="right" alt="AzmiTammam's Dev Card"/></a>
-### 🛠 &nbsp;Skills
+<a href="https://app.daily.dev/AzmiTammam"><img src="https://api.daily.dev/devcards/020e83d75b414a48a73292a20f5487f6.png?r=05f" width="300px" align="right" alt="AzmiTammam's Dev Card"/></a>
+### 🛠 &nbsp;TECHNOLOGY SKILLS
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
