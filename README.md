@@ -7,7 +7,6 @@
 ### **_a Spent 6500+ hours of practical experience coding responsive and dynamic websites. Motivated by the curiosity about the way life is being transformed by technology. I do enjoy problem-solving and taking care of the user experience._**</br></br>
 
 
-<img alt="Night Coding" width="350px" src="./assets/api-c99e353f761d318322c853c03ebcf21b.gif" align="right" />
 <a href="https://app.daily.dev/AzmiTammam"><img src="https://api.daily.dev/devcards/020e83d75b414a48a73292a20f5487f6.png?r=05f" width="350px" align="right" alt="AzmiTammam's Dev Card"/></a>
 ### 🛠 &nbsp;Skills
 
