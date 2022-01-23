@@ -8,7 +8,7 @@
 
 
 <img alt="Night Coding" width="350px" src="./assets/api-c99e353f761d318322c853c03ebcf21b.gif" align="right" />
-
+<a href="https://app.daily.dev/AzmiTammam"><img src="https://api.daily.dev/devcards/020e83d75b414a48a73292a20f5487f6.png?r=05f" width="400" alt="AzmiTammam's Dev Card"/></a>
 ### 🛠 &nbsp;Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
