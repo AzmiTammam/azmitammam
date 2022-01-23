@@ -4,7 +4,7 @@
 <h2>Hey there! I'm Azmi</h2>
 <img height="350px" width="1000px" src="./assets/js.gif">
 
-# Web Development is a passion of mine as a Software Engineering. Fulfilling this passion, I took several great courses and became a trainee at the Coding Academy by Orange in Full Stack Web Development for 7 months, I am Motivated by the curiosity about the way life is being transformed by technology </br></br>
+#### Web Development is a passion of mine as a Software Engineering. Fulfilling this passion, I took several great courses and became a trainee at the Coding Academy by Orange in Full Stack Web Development for 7 months, I am Motivated by the curiosity about the way life is being transformed by technology </br></br>
 
 
 <a href="https://app.daily.dev/AzmiTammam"><img src="https://api.daily.dev/devcards/020e83d75b414a48a73292a20f5487f6.png?r=05f" width="350px" align="right" alt="AzmiTammam's Dev Card"/></a>
