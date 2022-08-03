@@ -2,7 +2,7 @@
 <p align="center">
 <img alt="Night Coding" src="./assets/wave-hello.gif" width='40' align="left" />
 <h2>Hey there! I'm Azmi</h2>
-<img height="350px" width="1000px" src="./assets/js.gif">
+<img height="350px" width="900px" src="./assets/js.gif">
 
 ### Web Development is a passion of mine as a Software Engineering. </br> Fulfilling this passion, I took several great courses and became a trainee at the Coding Academy by Orange </br> in Full Stack Web Development for 7 months, I am Motivated by the curiosity about the way life is being transformed by technology </br></br>
 
